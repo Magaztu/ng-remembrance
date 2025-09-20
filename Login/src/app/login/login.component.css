@@ -1,4 +1,4 @@
-/* .item {
+.item {
   border: 2px solid rgb(95 97 110);
   height: 100%;
 
@@ -23,14 +23,14 @@
 
 .container {
   /* border: 2px solid rgb(75 70 74); */
-  /* border-radius: 0.5em; */
-  /* box-sizing: border-box; */
+  border-radius: 0.5em;
+  box-sizing: border-box;
 
-  /* place-self: center; */
-  /* height: 70vh; */
-  /* width: 80vw; */
+  place-self: center;
+  height: 70vh;
+  width: 80vw;
 
-  /* display: flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -40,7 +40,7 @@ body {
   height: 100vh;
   display: grid;
   place-items: center;
-} */
+}
 
 .login-wrapper {
   display: flex;
